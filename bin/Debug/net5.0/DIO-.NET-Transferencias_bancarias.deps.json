@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DIO-.NET-Transferencias_bancarias/1.0.0": {
+        "runtime": {
+          "DIO-.NET-Transferencias_bancarias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIO-.NET-Transferencias_bancarias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
